@@ -1,0 +1,16 @@
+{
+  "name": "indexsampledata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "audienceSample.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon audienceSample.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
